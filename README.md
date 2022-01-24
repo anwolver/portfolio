@@ -1,6 +1,9 @@
 # About Me
-![**Andrew Wolverton**](https://images.squarespace-cdn.com/content/v1/51d98be2e4b05a25fc200cbc/e4160e6a-9ff1-49ed-90e5-118d96b4a742/andrewheadshot.jpg)
+<img src="https://images.squarespace-cdn.com/content/v1/51d98be2e4b05a25fc200cbc/e4160e6a-9ff1-49ed-90e5-118d96b4a742/andrewheadshot.jpg" alt="Andrew Wolverton" width="576" height="432">
+
 **Andrew Wolverton**
+
+
 
 Master of Arts Management '22 | Carnegie Mellon University
 
