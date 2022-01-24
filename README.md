@@ -1,8 +1,11 @@
 # About Me
 Andrew Wolverton
 Master of Arts Management '22 | Carnegie Mellon University
+
 B.A. Theatre and Drama | Indiana University
+
 Certified Professional Educator | State of Indiana
+
 Singing Hoosiers Alumni Communications Officer | IU Singing Hoosiers 
 
 # What I Hope to Learn
