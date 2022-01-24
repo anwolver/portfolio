@@ -1,6 +1,5 @@
 # About Me
-<img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/51d98be2e4b05a25fc200cbc/e4160e6a-9ff1-49ed-90e5-118d96b4a742/andrewheadshot.jpg" data-image="https://images.squarespace-cdn.com/content/v1/51d98be2e4b05a25fc200cbc/e4160e6a-9ff1-49ed-90e5-118d96b4a742/andrewheadshot.jpg" data-image-dimensions="4032x3024" data-image-focal-point="0.5600037502343896,0.6800850106263283" data-load="false" data-image-id="61708b0ee4be1f0239e19c4f" data-type="image" alt="awolvert@andrew.cmu.edu" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/51d98be2e4b05a25fc200cbc/e4160e6a-9ff1-49ed-90e5-118d96b4a742/andrewheadshot.jpg?format=500w" style="left: -38.8375%; top: 0%; width: 169.352%; height: 100%; position: absolute;">
-
+![**Andrew Wolverton**](https://images.squarespace-cdn.com/content/v1/51d98be2e4b05a25fc200cbc/e4160e6a-9ff1-49ed-90e5-118d96b4a742/andrewheadshot.jpg)
 **Andrew Wolverton**
 
 Master of Arts Management '22 | Carnegie Mellon University
