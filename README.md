@@ -21,4 +21,5 @@ Here's where all my cool work will go. You should probably just give me an "A" n
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8529820"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<a href="/dataviz2.md" title="DataViz2">DataViz 2</a>
+# DataViz2
+
