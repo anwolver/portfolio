@@ -3,7 +3,7 @@
 <iframe src="https://data.oecd.org/chart/6Bml" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bml" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 # Debt-to-GDP
-I chose to use a Hieratchal Circle Chart with a filter of years. It gives a nice size visual related to the data value and gives more in depth information when highlighted. Overall, it is much more interactive than the Grid of Lines Chart. For most viewers, they do not need in depth data visuals like the Grid of Line Chart. 
+I chose to use a Hieratchal Circle Chart with a filter of years. It gives a nice size visual related to the data value and gives a more in depth information when highlighted. Overall, it is much more interactive than the Grid of Lines Chart. For most viewers, they do not need in depth data visuals like the Grid of Line Chart. 
 
 
 **Grid of Line Charts**
