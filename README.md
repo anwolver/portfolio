@@ -22,4 +22,4 @@ Here's where all my cool work will go. You should probably just give me an "A" n
 <div class="flourish-embed flourish-chart" data-src="visualisation/8529820"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # DataViz2
-
+<a href="https://anwolver.github.io/portfolio/dataviz2" title="DataViz2"> Data Viz 2 </a>
