@@ -20,10 +20,8 @@ The second design is only reviewing entitlement programs as highlighted in the d
 
 **Solutions**
 
-TEXT
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8626958"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-TEXT
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8626960"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
