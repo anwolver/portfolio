@@ -14,7 +14,7 @@ This first design is looking at ONLY revenues and expenses. Ideally, I would hav
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8626617"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-TEXT
+The second design is only reviewing entitlement programs as highlighted in the darker blue circles. This design is very similar to the first, as in it has pop-up boxes and is a heirachal chart. One change needed was to add a label marking that the dark blue circles represent entitlement programs.
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8626812"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
