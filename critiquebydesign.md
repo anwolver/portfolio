@@ -8,7 +8,9 @@ The original design is cluttered, has no direction in use of color, and is uncle
 
 **Wireframes**
 
-TEXT
+I decided to make two wireframes, one based on the overall revenue and expenses and the other on only entitlement programs. 
+
+This first design is looking at ONLY revenues and expenses. Ideally, I would have liked the amounts listed inside the boxes, but I was limited with what Flourish gave me. However, it is interactive for viewers. When reviewed by others, it was suggested that I change that colors to a red and green, redo the title, make corrections in the pop-up box (it had revenues labeled as expenses), and label that the boxes are proportionate. 
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8626617"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
