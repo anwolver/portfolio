@@ -19,3 +19,7 @@ The data is compiled from The Broadway League and Playbill.
 <a href="https://www.kaggle.com/jessemostipak/broadway-weekly-grosses" title="Kaggle Broadway Weekly Grosses"> Kaggle Broadway Weekly Grosses </a>
 
 <a href="https://www.broadwayleague.com/research/grosses-broadway-nyc/" title="Broadway League Broadway Weekly Grosses"> Broadway League Broadway Weekly Grosses </a>
+
+**Sketches**
+
+<img src="https://bwaystrategicdata.weebly.com/uploads/1/3/7/5/137582556/9-11-seats-sold_orig.jpg" width="595" height="185">
