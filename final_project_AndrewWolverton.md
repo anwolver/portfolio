@@ -1,6 +1,6 @@
 # Final Project: Parts 1 & 2
 
-# Part 1: Final Project
+## Part 1: Final Project
 **Tracking Broadway Audiences**
 
 In this project, I hope to not only analyze the trends of Broadway audiences over time, when they attend most throughout the year, but also, whether the industry has grown over the past 30 years. More so, I hope to analyze whether the increase in ticket prices over time has had any impact on attendance. I will look at the industry as a whole, but also foucs on a few individual shows. 
@@ -29,7 +29,7 @@ The data is compiled from The Broadway League and Playbill.
 ![Image from iOS (2)](https://user-images.githubusercontent.com/92415820/154300948-62e62e02-030c-42a2-bff7-9326b05c9ca4.jpg)
 
 
-# Part 2: Final Project Wireframes / Storyboards and User Research
+## Part 2: Final Project Wireframes / Storyboards and User Research
 
 **Research Protocol**
 A. Target audience is Broadway Producers and Industry Leaders
