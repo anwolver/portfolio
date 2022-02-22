@@ -26,7 +26,6 @@ The data is compiled from The Broadway League and Playbill.
 
 ![Image from iOS (2)](https://user-images.githubusercontent.com/92415820/154300948-62e62e02-030c-42a2-bff7-9326b05c9ca4.jpg)
 
-![Image from iOS (3)](https://user-images.githubusercontent.com/92415820/154302640-d30b880d-240d-47e6-9bea-6a07d1a45232.jpg)
 
 # Part 2 Final Project Wireframes / Storyboards and User Research
 
