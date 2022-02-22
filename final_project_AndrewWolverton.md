@@ -27,3 +27,8 @@ The data is compiled from The Broadway League and Playbill.
 ![Image from iOS (2)](https://user-images.githubusercontent.com/92415820/154300948-62e62e02-030c-42a2-bff7-9326b05c9ca4.jpg)
 
 ![Image from iOS (3)](https://user-images.githubusercontent.com/92415820/154302640-d30b880d-240d-47e6-9bea-6a07d1a45232.jpg)
+
+# Part 2 Final Project Wireframes / Storyboards and User Research
+
+<div class='tableauPlaceholder' id='viz1645515922511' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BroadwaySeatsSoldvsTicketPrices&#47;IndustrySeatsvs_Prices' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1645515922511');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
