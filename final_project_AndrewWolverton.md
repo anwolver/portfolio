@@ -32,11 +32,21 @@ The data is compiled from The Broadway League and Playbill.
 ## Part 2: Final Project Wireframes / Storyboards and User Research
 
 **Research Protocol**
-A. Target audience is Broadway Producers and Industry Leaders
-B. I asked individuals who have a basic understanding of what Broadway is and who understand how to read and analyze more in depth data.
-C. Interview Script (Coming Soon)
-D. Interview Feedback
-E. Changes Needed
+1. Target audience is Broadway Producers and Industry Leaders
+2. I asked individuals who have a basic understanding of what Broadway is and who understand how to read and analyze more in depth data.
+3. Interview Script - Are you able to understand the visualizations? What is the story trying to be told? What do you not understand? What are your recommendations?
+4. Interview Feedback (See Below)
+5. Changes Needed: Identify key points in data visuals, such as large dips. Remove Seats Sold graph. Obviously needs to still be build out onto Shorthand
+
+**Interview Repsonses**
+###### Interview Responses 1
+> I really liked how you put a lot of information into the graphs without it being overwhelming. I could easily see the trends that you're wanting to talk about and how high ticket prices are actually less of a deterrent than one would originally think.
+
+> "Seats sold" graph doesn't need the data labels. There are too many that are overlapping and its getting jumbled.
+
+> Even though many people already know what happened in 2008, it might be a good idea to mention that dip.
+
+> Overall, really clear. I could follow the idea and the story that you're trying to uncover. 
 
 <div class='tableauPlaceholder' id='viz1645550020125' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AverageOverallBwayGrosses&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1645550020125'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
  
