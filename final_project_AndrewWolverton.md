@@ -29,8 +29,8 @@ The data is compiled from The Broadway League and Playbill.
 
 # Part 2 Final Project Wireframes / Storyboards and User Research
 
-<div class='tableauPlaceholder' id='viz1645519648882' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AverageOverallBwayGrosses&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1645519648882'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
-
+<div class='tableauPlaceholder' id='viz1645549346167' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='IndustrySeatsvsTicketPrices&#47;MaxTicketPrices' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1645549346167'); var vizElement  = divElement.getElementsByTagName('object')[0]; vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+ 
 
 **SPACER**
 
@@ -39,3 +39,11 @@ The data is compiled from The Broadway League and Playbill.
 
 ------------------
 **Storyboard**
+
+Initial Question: When does Broadway see most of its success and what are contributing factors? 
+
+Setup: In setting up my story, I want to display the 1st line graph above representing Overall Broadway Grosses over a 20 year period on a Monthly Basis. I want to show the trends that appear yearly. The Estimate highlights exactly what a typical year on Broadway looks like in terms of grosses. This shows the months that Broadway sees most of it's success. 
+
+Conflict: The next question is whether the increase in grosses is due to rise in ticket prices or a rise in ticket sales. First, I will display the Max Ticket Prices of some of the most successful shows on Broadway. Then, I will display the Seats vs. Prices graph to showcase that even as ticket prices go up, so has the number of seats sold. Prices increased by 241% since 1990 and Seats Sold has increased by 92.57% since 1990.
+
+Resolution: 
