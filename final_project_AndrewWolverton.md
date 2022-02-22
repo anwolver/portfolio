@@ -49,10 +49,12 @@ E. Changes Needed
 ------------------
 **Storyboard**
 
-Initial Question: When does Broadway see most of its success and what are contributing factors? 
+Initial Question: When does Broadway see most of its success and what are contributing factors? I want to better understand current trends in Broadway sales, what time of year is most successful, and if ticket prices have any affect on ticket sales. 
 
 Setup: In setting up my story, I want to display the 1st line graph above representing Overall Broadway Grosses over a 20 year period on a Monthly Basis. I want to show the trends that appear yearly. The Estimate highlights exactly what a typical year on Broadway looks like in terms of grosses. This shows the months that Broadway sees most of it's success. 
 
 Conflict: The next question is whether the increase in grosses is due to rise in ticket prices or a rise in ticket sales. First, I will display the Max Ticket Prices of some of the most successful shows on Broadway. Then, I will display the Seats vs. Prices graph to showcase that even as ticket prices go up, so has the number of seats sold. Prices increased by 241% since 1990 and Seats Sold has increased by 92.57% since 1990.
 
 Resolution: I will finally showcase data from individual shows and identify if the trends are similar to the industry as a whole, whether there is a direct link between ticket prices and the number of seats sold. The majority of the productions show very little change in seats sold as ticket prices increase. The data suggests that audiences are not detered or driven to attend Broadway shows based on price. The more likely case is whether a show is popular and well received by audiences.  
+
+
