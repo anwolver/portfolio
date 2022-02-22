@@ -26,7 +26,7 @@ The data is compiled from The Broadway League and Playbill.
 
 <img src="https://bwaystrategicdata.weebly.com/uploads/1/3/7/5/137582556/9-11-seats-sold_orig.jpg" width="595" height="185">
 
-![Image from iOS (2)](https://user-images.githubusercontent.com/92415820/154300948-62e62e02-030c-42a2-bff7-9326b05c9ca4.jpg)
+![Image from iOS (2)](https://user-images.githubusercontent.com/92415820/155193929-41d1c447-8a5c-4597-8bd8-d3b56635f72e.jpg)
 
 
 ## Part 2: Final Project Wireframes / Storyboards and User Research
