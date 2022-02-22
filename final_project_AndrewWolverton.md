@@ -27,7 +27,7 @@ The data is compiled from The Broadway League and Playbill.
 ![Image from iOS (2)](https://user-images.githubusercontent.com/92415820/154300948-62e62e02-030c-42a2-bff7-9326b05c9ca4.jpg)
 
 
-# Part 2 Final Project Wireframes / Storyboards and User Research
+# Part 2: Final Project Wireframes / Storyboards and User Research
 
 **Research Protocol**
 A. Target audience is Broadway Producers and Industry Leaders
