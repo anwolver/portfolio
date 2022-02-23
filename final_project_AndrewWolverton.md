@@ -49,6 +49,16 @@ The data is compiled from The Broadway League and Playbill.
 > Overall, really clear. I could follow the idea and the story that you're trying to uncover. 
 
 ###### Interview Responses 2
+> The story line is strong, but the graphs could use stronger titles and explaniations.
+
+> The Overall Grosses graph is good, but I'm not sure why there is a shaded region, what is it? Maybe include a line in text.
+
+> I do like that the graphs are all very streamlined and that you stayed consistent with line graphs. It’s easy for a viewer to see the trends between them.
+
+> I do really like the story line though- it’s clear to understand and read through and the data works well with it.
+
+
+
 ----------------
 <div class='tableauPlaceholder' id='viz1645550020125' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AverageOverallBwayGrosses&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1645550020125'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
  
