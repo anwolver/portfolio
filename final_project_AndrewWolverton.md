@@ -36,7 +36,7 @@ The data is compiled from The Broadway League and Playbill.
 2. I asked individuals who have a basic understanding of what Broadway is and who understand how to read and analyze more in depth data.
 3. Interview Script - Are you able to understand the visualizations? What is the story trying to be told? What do you not understand? What are your recommendations?
 4. Interview Feedback (See Below)
-5. Changes Needed: Identify key points in data visuals, such as large dips. Remove Seats Sold graph. Obviously needs to still be build out onto Shorthand
+5. Changes Needed: Identify key points in data visuals, such as large dips. Remove Seats Sold graph. Obviously needs to still be build out onto Shorthand. Create better titles for graphs. Include text on graph or next to graph explaining highlighted trend.
 
 **Interview Repsonses**
 ###### Interview Responses 1
