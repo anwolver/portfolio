@@ -27,4 +27,4 @@ Here's where all my cool work will go. You should probably just give me an "A" n
 <a href="https://anwolver.github.io/portfolio/dataviz2" title="DataViz2"> Data Viz 2 </a>
 
 # Critique by Design
-<a href="https://anwolver.github.io/portfolio/critiquebydesign" title="Critique by Design"> Critique by Design </a>
+<a href="https://carnegiemellon.shorthandstories.com/protecting-broadwaypost-pandemic/index.html" title="Protecting Broadway Post-Pandemic"> Protecting Broadway Post-Pandemic </a>
