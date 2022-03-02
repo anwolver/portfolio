@@ -1,4 +1,4 @@
-# Final Project: Parts 1 & 2
+# Final Project: Parts 1
 
 ## Part 1: Final Project
 **Tracking Broadway Audiences**
