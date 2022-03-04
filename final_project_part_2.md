@@ -48,3 +48,6 @@ Setup: In setting up my story, I want to display the 1st line graph above repres
 Conflict: The next question is whether the increase in grosses is due to rise in ticket prices or a rise in ticket sales. First, I will display the Max Ticket Prices of some of the most successful shows on Broadway. Then, I will display the Seats vs. Prices graph to showcase that even as ticket prices go up, so has the number of seats sold. Prices increased by 241% since 1990 and Seats Sold has increased by 92.57% since 1990.
 
 Resolution: I will finally showcase data from individual shows and identify if the trends are similar to the industry as a whole, whether there is a direct link between ticket prices and the number of seats sold. For each show, I will identify percent changes and relevant information about the show. The majority of the productions show very little change in seats sold as ticket prices increase. The data suggests that audiences are not detered or driven to attend Broadway shows based on price. The more likely case is whether a show is popular and well received by audiences.  
+---------------
+## Part 3
+<a href="https://anwolver.github.io/portfolio/final_project_part_3" title="Next"> Next </a>
