@@ -1,6 +1,5 @@
-# Final Project: Parts 1
+# Part 1: Final Project
 
-## Part 1: Final Project
 **Tracking Broadway Audiences**
 
 In this project, I hope to not only analyze the trends of Broadway audiences over time, when they attend most throughout the year, but also, whether the industry has grown over the past 30 years. More so, I hope to analyze whether the increase in ticket prices over time has had any impact on attendance. I will look at the industry as a whole, but also foucs on a few individual shows. 
