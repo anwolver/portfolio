@@ -19,7 +19,7 @@ Singing Hoosiers Alumni Communications Officer | IU Singing Hoosiers
 As a theatermaker, I am a very visaul person. I would like to get better at visualizing more complex data sets and know what type visualization goes with what type of dataset.
 
 ## Portfolio
-Here's where all my cool work will go. You should probably just give me an "A" now.
+
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8529820"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
