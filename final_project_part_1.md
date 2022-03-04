@@ -31,4 +31,5 @@ The data is compiled from The Broadway League and Playbill.
 ## Part 2
 <a href="https://anwolver.github.io/portfolio/final_project_part_2" title="Next"> Next </a>
 
-
+## Portfolio
+<a href="https://anwolver.github.io/portfolio/" title="Portfolio"> Portfolio </a>
