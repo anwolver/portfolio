@@ -1,4 +1,5 @@
-# Part 2: Final Project (Wireframes / Storyboards and User Research)
+# Part 2: Final Project 
+
 
 **Research Protocol**
 1. Target audience is Broadway Producers and Industry Leaders
