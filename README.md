@@ -18,6 +18,8 @@ Singing Hoosiers Alumni Communications Officer | IU Singing Hoosiers
 ## What I Hope to Learn
 As a theatermaker, I am a very visaul person. I would like to get better at visualizing more complex data sets and know what type visualization goes with what type of dataset.
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/8529820"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## DataViz2
 <a href="https://anwolver.github.io/portfolio/dataviz2" title="DataViz2"> Data Viz 2 </a>
 
@@ -25,4 +27,9 @@ As a theatermaker, I am a very visaul person. I would like to get better at visu
 <a href="https://anwolver.github.io/portfolio/critiquebydesign" title="Critique by Design"> Critique by Design </a>
 
 ## Final Project: Parts 1 - 3
+<a href="https://anwolver.github.io/portfolio/final_project_part_1" title="Part 1"> Part 1 </a>
+<a href="https://anwolver.github.io/portfolio/final_project_part_2" title="Part 2"> Part 2 </a>
+<a href="https://anwolver.github.io/portfolio/final_project_part_3" title="Part 3"> Part 3 </a>
 
+## Final Data Story
+<a href="https://carnegiemellon.shorthandstories.com/protecting-broadwaypost-pandemic/index.html" title="Protecting Broadway Post-Pandemic"> Protecting Broadway Post-Pandemic </a>
