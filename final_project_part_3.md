@@ -13,3 +13,7 @@ As suggested from my Part II critiques, I added labels to my graphs, so viewers 
 My overall design concept was the gold bright lights of a Broadway Marquee. Colors of black, gold, and white were my three primary colors throughout the story.  Accompanying those colors were images of Times Square and various photos that coincide with the Broadway experience. 
 ## Reflection
 It was reassuring to see how Broadway is already showing signs of returning to pre-pandemic trends and that audiences are not deterred by high ticket prices, something that is expected to go up as inflation settles in. My purpose was to tell a story of when audiences go to Broadway and how they may or may not react to ticket prices, and to discover if Broadway is ready to fully return. I definitely struggled to find a clear storyline. I suspect that I got so lost in the data and reporting my findings, that I lost sight of my story. Creating my setup, conflict, and resolution from the data was challenging. In the end, I was quite proud of the work that I put into the final project and I came away with not only better story telling skills, but with confidence that I could do it again, but better.
+
+-----------
+## Portfolio
+<a href="https://anwolver.github.io/portfolio/" title="Portfolio"> Portfolio </a>
