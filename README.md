@@ -30,3 +30,6 @@ Here's where all my cool work will go. You should probably just give me an "A" n
 
 ## Critique by Design
 <a href="https://anwolver.github.io/portfolio/critiquebydesign" title="Critique by Design"> Critique by Design </a>
+
+## Final Project: Parts 1 - 3
+
