@@ -18,6 +18,7 @@ Singing Hoosiers Alumni Communications Officer | IU Singing Hoosiers
 ## What I Hope to Learn
 As a theatermaker, I am a very visaul person. I would like to get better at visualizing more complex data sets and know what type visualization goes with what type of dataset.
 
+## Covid-19 Case Counts
 <div class="flourish-embed flourish-chart" data-src="visualisation/8529820"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## DataViz2
