@@ -28,6 +28,7 @@ The data is compiled from The Broadway League and Playbill.
 ![Image from iOS (2)](https://user-images.githubusercontent.com/92415820/155193929-41d1c447-8a5c-4597-8bd8-d3b56635f72e.jpg)
 
 ------------------------
-<a href="https://anwolver.github.io/portfolio/final_project_part_2" title="Part 2"> Part 2 </a>
+## Part 2
+<a href="https://anwolver.github.io/portfolio/final_project_part_2" title="Next"> Next </a>
 
 
